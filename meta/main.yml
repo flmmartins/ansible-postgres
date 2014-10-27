@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Fernanda Martins
+  description: Install and configure postgres
+  min_ansible_version: 1.5
+  platforms:
+  - name: CentOS
+    versions:
+    - 6
+  categories:
+  - database
+  - database:sql
+  - development
+  - packaging
+  - system
+  - web
